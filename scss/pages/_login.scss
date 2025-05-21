@@ -216,6 +216,7 @@ body {
 
 .test-button {
   @include default-xs-button($atomic-blue-300);
+  //커밋용 주석입니다.
 }
 .test-button2 {
   @include default-sm-button($atomic-blue-300);
