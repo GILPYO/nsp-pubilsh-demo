@@ -1,0 +1,74 @@
+@mixin caption-12($color: $primary-normal, $font-weight: 400) {
+  color: $color;
+  font-size: 12px;
+  font-weight: $font-weight;
+  line-height: 16px;
+}
+
+@mixin body-14($color: $primary-normal, $font-weight: 400) {
+  color: $color;
+  font-size: 14px;
+  font-weight: $font-weight;
+  line-height: 20px;
+}
+
+@mixin subtitle-16($color: $primary-normal, $font-weight: 400) {
+  color: $color;
+  font-size: 16px;
+  font-weight: $font-weight;
+  line-height: 22px;
+  letter-spacing: -0.32px;
+}
+
+@mixin title-18($color: $primary-normal, $font-weight: 400) {
+  color: $color;
+  font-size: 18px;
+  font-weight: $font-weight;
+  line-height: 24px;
+}
+
+@mixin heading-5($color: $primary-normal, $font-weight: 400) {
+  color: $color;
+  font-size: 20px;
+  font-weight: $font-weight;
+  line-height: 26px;
+}
+
+@mixin heading-4($color: $primary-normal, $font-weight: 400) {
+  color: $color;
+  font-size: 24px;
+  font-weight: $font-weight;
+  line-height: 28px;
+}
+
+@mixin heading-3($color: $primary-normal, $font-weight: 400) {
+  color: $color;
+  font-size: 28px;
+  font-weight: $font-weight;
+  line-height: 32px;
+  letter-spacing: -0.56px;
+}
+
+@mixin heading-2($color: $primary-normal, $font-weight: 400) {
+  color: $color;
+  font-size: 32px;
+  font-weight: $font-weight;
+  line-height: 36px;
+  letter-spacing: -0.64px;
+}
+
+@mixin heading-1($color: $primary-normal, $font-weight: 400) {
+  color: $color;
+  font-size: 40px;
+  font-weight: $font-weight;
+  line-height: 44px;
+  letter-spacing: -0.8px;
+}
+
+@mixin display-44($color: $primary-normal, $font-weight: 400) {
+  color: $color;
+  font-size: 44px;
+  font-weight: $font-weight;
+  line-height: 48px;
+  letter-spacing: -0.88px;
+}

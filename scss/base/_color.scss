@@ -1,0 +1,147 @@
+$primary-normal: #000000;
+$primary-light: #dddddd;
+
+$secondary-normal: #2189ff;
+$secondary-light: #a1ccff;
+$secondary-strong: #006bea;
+
+$icon-primary: #000000;
+$icon-secondary: #2189ff;
+$icon-white: #ffffff;
+$icon-disabled: #bbbbbb;
+$icon-negative: #ef3434;
+$icon-positive: #3fc97a;
+$icon-cautionary: #f66700;
+
+$text-basic: #1c1c1c;
+$text-white: #ffffff;
+$text-subtle: #8f8f8f;
+$text-disabled: #bbbbbb;
+$text-primary: #000000;
+$text-positive: #3fc97a;
+$text-positive-subtle: #b3edc9;
+$text-negative: #ef3434;
+$text-negative-subtle: #fee0e0;
+$text-cautionary: #f66700;
+$text-cautionary-subtle: #ffe5d4;
+$text-disabled-2: #bbbbbb;
+
+$border-basic: #ffffff;
+$border-primary: #eeeeee;
+$border-primary-subtle: #dddddd;
+$border-positive: #d9f7e5;
+$border-positive-subtle: #b3edc9;
+$border-negative: #fee0e0;
+$border-negative-subtle: #f9baba;
+$border-cautionary: #ffe5d4;
+$border-cautionary-subtle: #fccb9f;
+
+$background-basic: #ffffff;
+$background-basic-subtler: #f7f7f7;
+$background-basic-subtle: #dddddd;
+
+$atomic-common-0: #000000;
+$atomic-common-100: #ffffff;
+
+$atomic-alpha-black-100: rgba(0, 0, 0, 1);
+$atomic-alpha-black-90: rgba(0, 0, 0, 0.9);
+$atomic-alpha-black-70: rgba(0, 0, 0, 0.7);
+$atomic-alpha-black-50: rgba(0, 0, 0, 0.5);
+$atomic-alpha-black-25: rgba(0, 0, 0, 0.25);
+$atomic-alpha-black-10: rgba(0, 0, 0, 0.1);
+$atomic-alpha-black-5: rgba(0, 0, 0, 0.05);
+
+$atomic-alpha-white-100: rgba(255, 255, 255, 1);
+$atomic-alpha-white-75: rgba(255, 255, 255, 0.75);
+$atomic-alpha-white-50: rgba(255, 255, 255, 0.5);
+$atomic-alpha-white-25: rgba(255, 255, 255, 0.25);
+$atomic-alpha-white-10: rgba(255, 255, 255, 0.1);
+$atomic-alpha-white-5: rgba(255, 255, 255, 0.05);
+
+$atomic-blue-50: #f0f7ff;
+$atomic-blue-100: #d6e9ff;
+$atomic-blue-200: #a1ccff;
+$atomic-blue-300: #68aeff;
+$atomic-blue-400: #469cff;
+$atomic-blue-500: #2189ff;
+$atomic-blue-600: #007aff;
+$atomic-blue-700: #006bea;
+$atomic-blue-800: #0052b3;
+$atomic-blue-900: #003a80;
+
+$atomic-red-50: #feeff0;
+$atomic-red-100: #fee0e0;
+$atomic-red-200: #f9baba;
+$atomic-red-300: #f36e6e;
+$atomic-red-400: #f15656;
+$atomic-red-500: #ef3434;
+$atomic-red-600: #e43e3e;
+$atomic-red-700: #d62e2e;
+$atomic-red-800: #ae2121;
+$atomic-red-900: #8c1c1c;
+
+$atomic-green-50: #edfbf3;
+$atomic-green-100: #d9f7e5;
+$atomic-green-200: #b3edc9;
+$atomic-green-300: #85e3ab;
+$atomic-green-400: #58d68d;
+$atomic-green-500: #3fc97a;
+$atomic-green-600: #2ecc71;
+$atomic-green-700: #28b463;
+$atomic-green-800: #239b56;
+$atomic-green-900: #1f8449;
+
+$atomic-orange-50: #fff3eb;
+$atomic-orange-100: #ffe5d4;
+$atomic-orange-200: #fccb9f;
+$atomic-orange-300: #fa9f54;
+$atomic-orange-400: #f8852a;
+$atomic-orange-500: #f66700;
+$atomic-orange-600: #e76208;
+$atomic-orange-700: #d35a0b;
+$atomic-orange-800: #b94f0d;
+$atomic-orange-900: #98420f;
+
+$atomic-yellow-50: #fef9e7;
+$atomic-yellow-100: #fdf2d6;
+$atomic-yellow-200: #f9e79f;
+$atomic-yellow-300: #f7dc6f;
+$atomic-yellow-400: #f4d03f;
+$atomic-yellow-500: #f3c722;
+$atomic-yellow-600: #f1c40f;
+$atomic-yellow-700: #d4ac0d;
+$atomic-yellow-800: #b7950b;
+$atomic-yellow-900: #9a7d0a;
+
+$atomic-seablue-50: #f0f9fc;
+$atomic-seablue-100: #e0f2fa;
+$atomic-seablue-200: #a8e1f4;
+$atomic-seablue-300: #70ceee;
+$atomic-seablue-400: #33c0ea;
+$atomic-seablue-500: #1ad0ff;
+$atomic-seablue-600: #00b3e3;
+$atomic-seablue-700: #009bcd;
+$atomic-seablue-800: #0086b4;
+$atomic-seablue-900: #006f99;
+
+$atomic-teal-50: #f5fefe;
+$atomic-teal-100: #e0fcfd;
+$atomic-teal-200: #baf8fa;
+$atomic-teal-300: #8cf1f6;
+$atomic-teal-400: #5fe9f0;
+$atomic-teal-500: #26dee6;
+$atomic-teal-600: #00c7cf;
+$atomic-teal-700: #00afb9;
+$atomic-teal-800: #0098a4;
+$atomic-teal-900: #00838f;
+
+$atomic-gray-50: #f7f7f7;
+$atomic-gray-100: #eeeeee;
+$atomic-gray-200: #dddddd;
+$atomic-gray-300: #bbbbbb;
+$atomic-gray-400: #aaaaaa;
+$atomic-gray-500: #8f8f8f;
+$atomic-gray-600: #757575;
+$atomic-gray-700: #555555;
+$atomic-gray-800: #313131;
+$atomic-gray-900: #1c1c1c;
